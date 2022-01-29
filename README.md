@@ -1,1 +1,1 @@
-hack-it
+about:blank
